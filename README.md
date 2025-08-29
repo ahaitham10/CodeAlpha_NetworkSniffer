@@ -48,5 +48,5 @@ Stop the program anytime with **Ctrl+C**.
 ---
 
 ## 👨‍💻 Author
-- Name: [Your Name]  
+- Name: [Ahmed Haitham]  
 - Internship: CodeAlpha Cyber Security Internship
